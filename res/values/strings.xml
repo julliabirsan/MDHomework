@@ -31,6 +31,19 @@
     <string name="histogram">Histogram</string>
     <string name="temp">Temporar</string>
     <string name="facebookProfile">Facebook Profile</string>
+    <!-- menu strings -->
+    <string name="action_search">Search</string>
+    <string name="action_addmovie">Add Movie</string>
+    <string name="action_help">Help</string>
+    <string name="edit">Edit</string>
+    <string name="edit_pass">Edit Password</string>
+    <string name="registerNew">Register (all fields must be completed)</string>
+    <string name="fbProfile">Facebook Profile</string>
+    <string name="saveProfile">Save Changes</string>
+    <string name="save">Save</string>
+    <string name="new_facebook">New Facebook Profile</string>
+    <string name="newPassword">New Password</string>
+    <string name="cancel">Cancel</string>
 
     <string-array name="age_values">
         <item>14</item>
@@ -85,5 +98,6 @@
     </string-array>
 
     <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_profile">Profile</string>
 
 </resources>

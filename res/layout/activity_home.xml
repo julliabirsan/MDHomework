@@ -107,4 +107,14 @@
         android:onClick="open"
         android:text="@string/weather" />
 
+    <Button
+        android:id="@+id/btnProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etPressure"
+        android:layout_marginTop="44dp"
+        android:layout_toRightOf="@+id/textView3"
+        android:onClick="open"
+        android:text="Profile" />
+
 </RelativeLayout>
